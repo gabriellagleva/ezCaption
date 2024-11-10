@@ -1,1 +1,0 @@
-def record(buffer: list):

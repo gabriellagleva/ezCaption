@@ -8,3 +8,7 @@ Then, pygame is used to show the subtitles.
 Dependancies:
 Pygame
 FasterWhisper
+
+
+
+Please noteL: That while it is compatible with OBS, it contains absolutly no code from the OBS project. As such, because all programs that can use chroma keys are compatible with ezCaption, it likely does not violate the terms of OBS' license, and can be licensed under the MIT license 

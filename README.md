@@ -1,4 +1,4 @@
-EZ Caption is a way to create fast and dirty open captions for live streaming. While not perfect, it serves as both a proof of concept, and an opprotunity for improvement
+EZ Caption is a way to create fast and dirty open captions for live streaming. While not perfect, it serves as both a proof of concept, and an opportunity for improvement
 
 How does it work:
 
